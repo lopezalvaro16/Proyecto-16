@@ -1,23 +1,5 @@
+@import "./node_modules/nes.css/css/nes.css";
 
-*{
+* {
     font-size: 30px;
-    font-family: georgia;} 
-
-
-div{
- width: 100px;
-height: 100px;
-display: block;
-
 }
-.caja{
-background-color: red;
-}
-.caja2{
-background-color: aqua;
-}
-.caja3{
- background-color: green;
-}
-.caja4{
-    background-color: yellow;
